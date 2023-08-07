@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Use proxy when updating subscription</source>
-        <translation>استفاده از پروکسی زمانی که اشتراک را بروزرسانی می کنید</translation>
+        <translation>استفاده از پروکسی زمانی که اشتراک را بروزرسانی می‌کنید</translation>
     </message>
     <message>
         <source>Security</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Statistics refresh rate</source>
-        <translation>نرخ تازه سازی آمار ترافیک</translation>
+        <translation>نرخ تازه‌سازی آمار ترافیک</translation>
     </message>
     <message>
         <source>Off</source>
@@ -115,11 +115,11 @@
     </message>
     <message>
         <source>Please input the core name.</source>
-        <translation>لطفا نام هسته را وارد کنید</translation>
+        <translation>.لطفا نام هسته را وارد کنید</translation>
     </message>
     <message>
         <source>Please select the core name.</source>
-        <translation>لطفا نام هسته را انتخاب کنید</translation>
+        <translation>.لطفا نام هسته را انتخاب کنید</translation>
     </message>
     <message>
         <source>Connection statistics</source>
@@ -127,7 +127,7 @@
     </message>
     <message>
         <source>Include Pre-release when checking update</source>
-        <translation>هنگام بررسی به‌روزرسانی، نسخه پیش‌انتشار را نیز لحاظ شود</translation>
+        <translation>هنگام بررسی به‌روزرسانی، نسخه پیش‌انتشار نیز لحاظ شود</translation>
     </message>
     <message>
         <source>System proxy format</source>
